@@ -1,0 +1,48 @@
+td {
+    text-align: center;
+}
+
+th,
+tr,
+td {
+    width: 200px;
+    height: 150px;
+    border: solid 1px black;
+}
+
+#cabecera {
+    background-color: aqua;
+}
+
+h2,
+h5 {
+    text-align: center;
+}
+
+td {
+    background-color: lightgreen;
+}
+
+.rogue {
+    background-color: pink;
+}
+
+#none {
+    background-color: wheat;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#L0,
+#L32,
+#L33,
+#L34 {
+    visibility: hidden;
+}
