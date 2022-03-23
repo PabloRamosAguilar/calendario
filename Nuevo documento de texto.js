@@ -57,7 +57,7 @@ function pintarEvento(Evento) {
         };
         if (objeto.dia == fecha.getDate()) {
             document.getElementById("L" + counter).style.backgroundColor = "wheat";
-            document.getElementById("L" + counter).innerHTML += "objeto actual";
+            document.getElementById("L" + counter).innerHTML += "dia actual";
         };
         if (objeto.evento !== "") {
             document.getElementById("E" + counter).style.backgroundColor = "lightblue";
